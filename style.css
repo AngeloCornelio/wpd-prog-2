@@ -1,0 +1,13 @@
+#col1 {
+  width: 60%;
+  float: left;
+}
+
+#col2 {
+  width: 40%;
+  float: right;
+}
+
+#col2 label, input, button {
+  display: block;
+}
